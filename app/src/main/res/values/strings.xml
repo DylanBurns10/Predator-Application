@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PredatorApplication</string>
+    <string name="Start">START</string>
+    <string name="Question">Question</string>
+    <string name="Description">Description</string>
+    <string name="Option1">Option 1</string>
+    <string name="Option2">Option 2</string>
+    <string name="Option3">Option 3</string>
+    <string name="Next">NEXT</string>
+    <string name="HP">HP: 100</string>
+    <string name="Energy">Energy: 100</string>
+    <string name="mainMenu">MAIN MENU</string>
+    <string name="gameOver">GAME OVER</string>
+    <string name="back">Back</string>
+
+</resources>

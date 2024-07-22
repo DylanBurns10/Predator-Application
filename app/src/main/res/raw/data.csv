@@ -1,0 +1,137 @@
+0,1,1,-1,AREA 1 - Guard base,-
+1,2,2,-1,You are the Predator an alien being and have been tasked with retrieving stolen technology from planet Earth. You equip yourself with your weapons and armour and fly to Earth in your spaceship.,-
+2,3,22,-1,-,Choose where to land
+3,4,5,-1,-,Disable alarm tower?
+4,5,5,-1,You disable the alarm tower preventing reinforcements being called.,-
+5,6,7,-1,-,Use cloaking device to try to sneak through?
+6,36,36,-1,You enable the cloaking device and become more or less invisible to the naked eye and slip through the guard base to vehicle bay -20 energy.,-
+7,8,22,-1,-,Do you leap onto the trees surrounding the base or go in through the front gate?
+8,9,13,-1,-,Activate cloaking to stealthily kill the guards?
+9,10,10,-1,You de-cloak after killing the 3 guards in the base but there were 2 more you didn't see. -20 energy. ,-
+10,11,12,-1,-,Kill the guards or run for the vehicle bay?
+11,36,36,-1,Both you and the guards are surprised but they manage to land a few shots on you as you rip them to pieces. You then proceed to the vehicle bay. -10 HP.,-
+12,36,36,-1,As you run past them towards the entrance of the vehicle bay you are hit by waves of bullets but make it into the vehicle bay entrance. -20 HP.,-
+13,14,15,-1,-,Leap to the enemies or run at them?
+14,16,16,-1,You leap to the 2 guards on the ground and gut them making minimal sound. You then leap to the top of the guard tower and kill the guard there. However when you are going to the vehicle bay entrance you hear two guards behind you shouting then opening fire.,-
+15,16,16,-1,You run at the enemies soaking up the damage and rip them to pieces. You then leap to the top of the tower and kill the guard.However when you are going to the vehicle bay entrance you hear two guards behind you shouting then opening fire. -15 HP.,-
+16,17,18,-1,-,Make a run for the vehicle bay or turn around and kill the guards?
+17,19,20,-1,-,Leap to the 2 guards or run at them?
+18,36,36,-1,You make a run for the bay and only suffer minimal damage from the bullets. -10 HP.,-
+19,21,21,-1,You leap through the air to the guards and snap both their necks. -15 HP.,-
+20,21,21,-1,You run at the guards tanking the bullets being fired at you and gut them from where they stand. -25 HP.,-
+21,36,36,-1,You then proceed to the vehicle bay.,-
+22,23,23,-1,The 2 exterior guards spot you and begin firing their weapons at you. ,-
+23,24,25,-1,-,Take cover or take the fight?
+24,29,29,-1,You take cover behind a concrete wall.The other guards in the tower are alerted and one guard goes to what looks like an alarm tower.,-
+25,26,27,-1,-,Do you run at them or leap through the air to them?
+26,28,28,-1,You run at the guards and slice them to pieces but taking 25 damage in the process -25 HP.,-
+27,28,28,-1,You leap through the air avoiding some damage and slice the 2 guards to pieces -15 HP.,-
+28,29,29,-1,One of the other guards has noticed what has happened and is running to what looks to be an alarm tower.,-
+29,30,38,-1,-,Ignore the guard and run to the vehicle bay?
+30,31,31,-1,A siren goes off and you see guards surround you and hear helicopters above your head.,-
+31,32,34,37,-,Choose weapon
+32,33,33,-1,You take out your wrist-blades and slice the nearest two guards but the army guards surrounding you and the helicopter shoot you down. You take too much damage and die -999 HP.,-
+33,0,0,-1,Game Over,-
+34,35,35,-1,You enable your power gauntlet and punch the ground beneath you all the guards around you fall back from the shock wave. The ground beneath you gives way to an underground tunnel and you escape into it but not before the helicopter can get a few hits on you with its minigun. - 70 HP - 35 energy. ,-
+35,36,36,-1,Heavily wounded you walk down the tunnel and find that it leads to the vehicle bay.,-
+36,49,49,-1,Move onto the next area.,-
+37,33,33,-1,You take out your spear and throw it through the helicopter above you destroying it but the guards surrounding you open fire with all their weapons. You take too much damage and die -999 HP.,-
+38,39,45,46,-,Choose weapon
+39,40,40,-1,You run at the guard wrist blades detracted and slice his head off. But not before he gets off the alarm.,-
+40,30,41,-1,-,Destroy the tower?
+41,42,42,-1,With a couple of punches the siren is stopped but not before it alerted the base's guards.,-
+42,43,44,-1,-,Use cloaking to sneak through?
+43,36,36,-1,You activate your cloaking device and slip through the base to the vehicle bay. -20 energy.,-
+44,36,36,-1,You take on all 4 guards at once slicing them to pieces but you take some damage in the process. You move onto the vehicle bay. -20 HP.,-
+45,47,47,-1,You take out your spear and throw it at the guard piercing his heart and killing him instantly.,-
+46,47,47,-1,You activate your power gauntlet and punch the floor destroying the area around the tower and killing the guard. However the noise alerts the base's guards. -35 energy.,-
+47,43,48,-1,-,Activate cloaking?
+48,36,36,-1,You take out the remaining guards in the base only suffering minimal damage and proceed to the vehicle bay. -10 HP.,-
+49,50,50,-1,AREA 2 - Underwater base,-
+50,51,51,-1,You emerge from the entrance of the underwater base you see no one in sight.,-
+51,52,54,-1,-,Use healing kit (1 remaining)?
+52,53,53,-1,You use the healing kit and let out a roar of pain as you close the wounds and inject a green healing liquid into yourself +50 HP but you no longer have a healing kit.,-
+53,55,55,-1,You hear some shuffling around toward the end of the left corridor.,-
+54,53,53,-1,You don't use the healing kit.,-
+55,56,120,-1,-,Investigate the left corridor?
+56,57,96,-1,-,Activate cloaking?
+57,58,58,-1,You activate the cloaking and walk through the corridor. -20 energy.,-
+58,59,59,-1,At the end of the corridor there is a room and as you look in you see a heavily armoured guard looking around whilst walking towards a big red button.,-
+59,60,93,-1,-,Kill the guard?
+60,61,61,-1,You slowly open the door and remain unnoticed and cloaked you walk up behind the guard and use your wrist blades to sever his head from his body.,-
+61,62,62,-1,You head back toward the entrance.,-
+62,63,74,-1,-,Go down the corridor to the  right or in front?
+63,64,64,-1,You go down the corridor in front of you.,-
+64,65,73,-1,-,Left or right?
+65,66,66,-1,You head to the left hallway and find a large room with lots of primitive human technology in it  with about 20 humans inside.It appears there are no guards in the room. You seem to be unnoticed for now.,-
+66,67,67,-1,-,Turn back?
+67,68,71,-1,-,Activate cloaking?
+68,69,69,67,You activate your cloaking device and head into the room unnoticed. -20 energy.,-
+69,70,70,-1,As you observe the humans you see one lay down something that resembles a key card and pick it up.,-
+70,88,88,-1,You head out of the room back to the hallway on the right and find a heavily reinforced vault door. You use the key card you have and open the vault door to reveal the stolen technology and recover it.,-
+71,72,72,-1,You walk into the room and all the humans are startled and scared. They drop all their things and run. One human activates the alarm. You quickly run to the back and go through the right hallway and find a heavily reinforced vault door.,-
+72,106,106,-1,You use the key card you have and open the vault door to reveal the stolen technology and recover it. But in doing this sounds an alarm.,-
+73,104,104,-1,You head to the right hallway and find a heavily reinforced vault door.,-
+74,75,75,-1,You head to the corridor on the right.,-
+75,76,76,-1,At the end of the corridor you find what looks like to be an armoury full of weapons and  20 guards.,-
+76,77,78,-1,-,Kill all the guards?
+77,64,64,-1,You walk away from the armoury and back to the entrance of the base and head through to the corridor in front of you. ,-
+78,79,80,82,-,Choose weapon
+79,81,81,-1,You unsheathe your wrist-blades and charge into the room and begin the slaughter. Due to the guards' surprise you manage to kill most of them without them putting up a fight. The final few guards shoot at you with small caliber handguns in panic as you sprint toward them and decapitate them. - 10 HP.,-
+80,81,81,-1,You get out your combistick ready for combat. You charge in and begin impaling the guards. However your combistick is not efficient in small spaces thus allowing the guards to land multiple shots on you but you manage to take out all the guards eventually. - 25 HP.,-
+81,84,84,-1,You walk away from the armoury and back to the entrance of the base and head through to the corridor in front of you. ,-
+82,83,83,-1,You activate your power gauntlet and charge into the armoury. All the guards are surprised and you punch the floor causing an the entire room to be destroyed along with some of the guards. The floor gives way and you and the rest of the guards fall into the water  and drop to the bottom of the ocean and drown. - 999 HP. ,-
+83,0,0,-1,Game Over,-
+84,85,89,-1,-,Left or right?
+85,86,86,-1,You head to the left hallway and find a large room with lots of primitive human technology in it  with about 20 humans inside.It appears there are no guards in the room. You seem to be unnoticed for now.,-
+86,87,87,-1,You walk into the room and all the humans are startled and scared. They drop all their things and run. One human activates the alarm but it doesn't matter as you have killed all the guards.,-
+87,88,88,-1,You head out of the room back to the hallway on the right and find a heavily reinforced vault door. You use the key card you have and open the vault door to reveal the stolen technology and recover it.,-
+88,0,0,-1,You escape the base with the required items and a predator dropship uncloaks itself in front of you to pick you up. Mission successful.,-
+89,90,90,-1,You head to the right hallway and find a heavily reinforced vault door.,-
+90,91,92,-1,-,Use the power gauntlet to smash your way through the vault door?
+91,85,85,-1,You must find a way in using your scans it appears to have the stolen technology you seek. So you turn back.,-
+92,88,88,90,The vault door is obliterated making a lot of noise. You walk through the hole in the door to find the stolen technology and recover it. -35 energy.  ,-
+93,94,94,-1,You ignore the guard and turn back as the alarm goes off.,-
+94,95,95,-1,You head back towards the entrance as you hear the scrambling of guards all around you.,-
+95,83,83,-1,As you get back toward the entrance you find that you have been surrounded by heavily armoured guards. But before you can take out any of your weapons they open fire all at once and your body is ridden with bullets. - 999 HP. ,-
+96,97,97,-1,You walk through the corridor and at the end of the corridor there is a room and as you look in you see a heavily armoured guard looking around whilst walking towards a big red button.The guard spots you outside the room and runs to the button.,-
+97,93,98,-1,-,Kill the guard?
+98,99,99,-1,You crash through the door into the room right before the guard has pushed the button.,-
+99,100,101,102,-,Choose weapon
+100,61,61,-1,The guard then unloads his assault shotgun into your chest whilst you sprint towards him wrist blades out. It takes a couple more slashes of teh blades to kill the guard due to his armour but he eventually falls to his knees. - 50 HP.,-
+101,61,61,-1,Your too quick for the guard as he raises his assault shotgun your spear pierces his skull sending his flying back detached from his body. ,-
+102,103,103,99,You enable your power gauntlet and punch the ground beneath you destroying the entire room obliterated the guard into many chunks of flesh. You drop down from the hole in the ground to find a new path and head down it. -10 HP -35 energy. ,-
+103,104,104,-1,You walk along the new found hallway to what appears to be a heavily reinforced vault door.,-
+104,105,119,-1,-,Use the power gauntlet to smash your way through the vault door?
+105,106,106,104,The vault door is obliterated making a lot of noise. You walk through the hole in the door to find the stolen technology and recover it. - 35 energy. ,-
+106,107,107,-1,You attach two of the plasma casters to your armour ready for use and put the other onto your belt.,-
+107,108,108,-1,You see 20 or so guards charging toward you guns in hand and about to fire.,-
+108,109,117,-1,-,Use the plasma casters?
+109,110,111,112,-,Choose weapon
+110,113,113,-1,You unsheathe your wrist blades and run into the gun fire. You manage to take out a few guards but there are too many. You take too many hits and fall to the ground. Set HP to 1.,-
+111,113,113,-1,You throw your spear into the crowd of guards sending a few flying back but there are too many. You take too many hits and fall to the ground. Set HP to 1. ,-
+112,83,83,-1,You activate your power gauntlet and destroy everything around you including the floor. You hear the screams of the guards as they drop into the ocean with you. There you and the rest of the guards drown and die. -999HP,-
+113,114,115,-1,-,Activate the self-destruct sequence?
+114,83,83,-1,The enemies stare down at you as you are brought to a lab to be experimented upon.,-
+115,116,116,113,You activate the self- destruct sequence on your left gauntlet and laugh at the enemies staring down at you. - 50 energy.,-
+116,0,0,-1,The underwater base goes up in a massive explosion destroying anything and everything at the base. Mission successful.,-
+117,118,118,108,You activate the plasma casters on your shoulders and fire them at the enemies. The enemies turn into piles of flesh and goo as the plasma connects with them. You take minimal damage. - 10 HP - 40 energy.,-
+118,88,88,-1,You walk past all the corpses of your enemies and get back to the entrance of the base by blasting any and all guards that come your way.,-
+119,64,64,-1,You must find a way in using your scans it appears to have the stolen technology you seek.,-
+120,121,121,-1,You ignore the sound and look at the other options. Suddenly an alarm sounds in the entire base.,-
+121,122,124,-1,-,Go down the corridor to the  right or in front?
+122,123,123,-1,You run to the corridor on the right. You stop running as you see 20 heavily armoured and armed guards facing you.,-
+123,113,113,-1,As you go to take out your weapon the guards open fire and you are filled with lead. Set HP to 1.,-
+124,125,125,-1,You run to the corridor in front of you.,-
+125,126,134,-1,-,Left or right?
+126,127,127,-1,You run to the corridor on the right and find a barricaded metal door.,-
+127,128,129,-1,-,Use power gauntlet?
+128,123,123,-1,You turn around and you see 20 heavily armoured and armed guards facing you.,-
+129,130,130,-1,You smash your way through the door. - 35 energy.,-
+130,128,131,-1,-,Activate cloaking?
+131,132,132,130,You creep into the room where you see 20 unarmed humans. - 20 energy.,-
+132,133,133,-1,As you look around for another route you see something that resembles a key card and pick it up. There are no other routes so you turn back. As you leave you see 20 heavily armoured and armed guards running to the control room where the unarmed humans were.,-
+133,72,72,-1,You go down the right corridor and find a heavily reinforced vault door.,-
+134,135,135,-1,You go down the right corridor and find a heavily reinforced vault door.,-
+135,105,136,-1,-,Use the power gauntlet to smash your way through the vault door?
+136,123,123,-1,You turn back and are faced by 20 heavily armoured and armed guards.,-
